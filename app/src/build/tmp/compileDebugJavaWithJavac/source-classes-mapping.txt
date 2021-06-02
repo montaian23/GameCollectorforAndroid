@@ -1,0 +1,12 @@
+com/example/gamecollectorforandroid/BuildConfig.java
+ com.example.gamecollectorforandroid.BuildConfig
+com/example/gamecollectorforandroid/ArcadeDetailsList.java
+ com.example.gamecollectorforandroid.ArcadeDetailsList
+com/example/gamecollectorforandroid/setup_maker.java
+ com.example.gamecollectorforandroid.setup_maker
+ com.example.gamecollectorforandroid.setup_maker$1
+com/example/gamecollectorforandroid/MainActivity.java
+ com.example.gamecollectorforandroid.MainActivity
+ com.example.gamecollectorforandroid.MainActivity$1
+com/example/gamecollectorforandroid/ArcadeDetails.java
+ com.example.gamecollectorforandroid.ArcadeDetails

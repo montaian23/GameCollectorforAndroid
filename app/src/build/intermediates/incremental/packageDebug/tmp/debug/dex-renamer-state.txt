@@ -1,0 +1,4 @@
+#Mon May 31 13:55:30 CDT 2021
+base.0=C\:\\Users\\Ian Montague\\Documents\\GitHub\\GameCollectorforAndroid\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
